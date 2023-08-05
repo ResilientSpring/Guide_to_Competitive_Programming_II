@@ -10,4 +10,5 @@ int main() {
 	cin >> a >> b >> x;
 
 	cout << a << " " << b << " " << x << "\n";
+
 }
