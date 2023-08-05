@@ -11,6 +11,11 @@ int main() {
 	cout << b << "\n";
 
 
+	int a2 = 123456789;
+	long long b2 = (long long) a2 * a2;
+	cout << b2 << "\n";
+
+
 	long long aa = 123456789;
 	long long bb = aa * aa;
 	cout << bb << "\n";
