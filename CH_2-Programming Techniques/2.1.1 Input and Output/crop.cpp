@@ -9,4 +9,5 @@ int main() {
 	cout << "Enter two integers and a string in order: ";
 	cin >> a >> b >> x;
 
+	cout << a << " " << b << " " << x << "\n";
 }
