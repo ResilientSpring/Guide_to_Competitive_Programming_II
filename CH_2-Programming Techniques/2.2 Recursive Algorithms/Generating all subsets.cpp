@@ -2,6 +2,8 @@
 #include <vector>
 using namespace std;
 
+void search(int k);
+
 int n = 3;
 
 // A vector that will contain the elements of each subsets.
@@ -19,7 +21,11 @@ void search(int k) {
 	}
 	else {
 		// include k in the subset.
-		subset.p
+		subset.push_back(k);
+		search(k + 1);
+		subset.pop_back();
+		// don't include k in the subset
+		search(k + 1);
 	}
 		
 
