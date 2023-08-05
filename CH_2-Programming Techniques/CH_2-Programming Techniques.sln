@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2.1.1 Input and Output", "2
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2.1.1 Input and Output for C", "2.1.1 Input and Output for C\2.1.1 Input and Output for C.vcxproj", "{3C7A0816-5323-42D7-9E81-871E75C99445}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2.1.1 Input and Output (getline)", "2.1.1 Input and Output (getline)\2.1.1 Input and Output (getline).vcxproj", "{0AFD5E92-0318-4FC2-B075-29F4F0E3935E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{3C7A0816-5323-42D7-9E81-871E75C99445}.Release|x64.Build.0 = Release|x64
 		{3C7A0816-5323-42D7-9E81-871E75C99445}.Release|x86.ActiveCfg = Release|Win32
 		{3C7A0816-5323-42D7-9E81-871E75C99445}.Release|x86.Build.0 = Release|Win32
+		{0AFD5E92-0318-4FC2-B075-29F4F0E3935E}.Debug|x64.ActiveCfg = Debug|x64
+		{0AFD5E92-0318-4FC2-B075-29F4F0E3935E}.Debug|x64.Build.0 = Debug|x64
+		{0AFD5E92-0318-4FC2-B075-29F4F0E3935E}.Debug|x86.ActiveCfg = Debug|Win32
+		{0AFD5E92-0318-4FC2-B075-29F4F0E3935E}.Debug|x86.Build.0 = Debug|Win32
+		{0AFD5E92-0318-4FC2-B075-29F4F0E3935E}.Release|x64.ActiveCfg = Release|x64
+		{0AFD5E92-0318-4FC2-B075-29F4F0E3935E}.Release|x64.Build.0 = Release|x64
+		{0AFD5E92-0318-4FC2-B075-29F4F0E3935E}.Release|x86.ActiveCfg = Release|Win32
+		{0AFD5E92-0318-4FC2-B075-29F4F0E3935E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
