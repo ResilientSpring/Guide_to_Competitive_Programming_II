@@ -10,4 +10,8 @@ int main() {
 	long long b = a * a;
 	cout << b << "\n";
 
+
+	long long aa = 123456789;
+	long long bb = aa * aa;
+	cout << bb << "\n";
 }
